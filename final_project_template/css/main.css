@@ -16,10 +16,9 @@ img logo {
 	max-width: 100%
 }
 
-
-nav a href about {
+a {
 	text-decoration: none;
-	color: black;
+	color: pink;
 	font-size: 16px;
 	text-align: justify;
 	font-family: "verdana", serif;
