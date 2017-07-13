@@ -19,4 +19,8 @@ img logo {
 
 nav about {
 	text-decoration: none;
+	color: black;
+	font-size: 16px;
+	text-align: justify;
+	font-family: "verdana", serif;
 }
